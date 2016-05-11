@@ -1,0 +1,6 @@
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\PermissaoWindowsService\PermissaoWindowsService\bin\Debug\PermissaoWindowsService.exe.config
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\PermissaoWindowsService\PermissaoWindowsService\bin\Debug\PermissaoWindowsService.exe
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\PermissaoWindowsService\PermissaoWindowsService\bin\Debug\PermissaoWindowsService.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\PermissaoWindowsService\PermissaoWindowsService\obj\Debug\PermissaoWindowsService.csprojResolveAssemblyReference.cache
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\PermissaoWindowsService\PermissaoWindowsService\obj\Debug\PermissaoWindowsService.exe
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\PermissaoWindowsService\PermissaoWindowsService\obj\Debug\PermissaoWindowsService.pdb
