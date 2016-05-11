@@ -1,0 +1,1 @@
+# SDDL-Permissoes-Windows-Service-
